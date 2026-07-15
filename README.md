@@ -40,5 +40,7 @@ Durante este proceso estudiaré principalmente dos lenguajes:
 Cada carpeta representa un día de estudio y aprendizaje.
 
 - 📅 [Día 1 - Variables](./Día%201%20-%20Variables/)
+- 📅 [Día 2 - Variables](./Día%202%20-%20Tipos%20de%20Datos/)
+
 
 > ✨ "Este repositorio es la demostración de que los sueños sí se cumplen, siempre que haya disciplina, constancia y ganas de aprender."
